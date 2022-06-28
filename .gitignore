@@ -1,0 +1,17 @@
+# General ---------------------------------------------------------------------
+
+pvt
+
+# don't ignore .gitignore
+!/.gitignore
+
+# R specific ------------------------------------------------------------------
+
+# History files
+.Rhistory
+# .Rapp.history
+
+# RStudio files
+.Rproj.user/
+.Rproj.user
+.Rproj
